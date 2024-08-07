@@ -1,1 +1,0 @@
-## Quaternion Message Parsing Neural Network
